@@ -32,7 +32,7 @@ log_list=[0]*app_count
 ########################################
 config = {
          'api_rand': 1,
-         'rounds': 3,
+         'rounds': 10,
          'rounds_delay': [0,60,120],
          'api_delay': [0,2,6],
          'app_delay': [0,30,60],
